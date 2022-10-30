@@ -1,0 +1,196 @@
+body {
+  margin: 0%;
+}
+header {
+  width: 100%;
+  height: 100px;
+  background-color: black;
+}
+main {
+  width: 100%;
+  height: 800px;
+  background-color: rgba(8, 48, 81, 0.995);
+  margin-bottom: 0%;
+}
+#firstsub {
+  width: 80%;
+  height: 100px;
+  background-color: gray;
+  margin-left: 150px;
+  margin-right: 60px;
+}
+#secondsub {
+  width: 80%;
+  margin-left: 150px;
+  margin-right: 60px;
+  height: 300px;
+  text-align: center;
+}
+
+#BSM {
+  width: 28%;
+  height: 200px;
+  float: left;
+  margin-top: 50px;
+  margin-right: 80px;
+  border: 0.5px solid black;
+  color: white;
+}
+
+#WebDesign {
+  width: 30%;
+  height: 200px;
+  float: left;
+  margin-top: 50px;
+  margin-right: 80px;
+  border: 0.5px solid black;
+  color: white;
+}
+
+#salesforce {
+  width: 29%;
+  height: 200px;
+  float: left;
+  margin-top: 50px;
+  border: 0.5px solid black;
+  color: white;
+}
+
+article p {
+  text-align: left;
+  margin-left: 10px;
+}
+
+#thirdsub {
+  width: 80%;
+  height: 500px;
+  background-color: whitesmoke;
+  margin-left: 150px;
+  margin-right: 60px;
+}
+
+section {
+  width: 73%;
+  height: 400px;
+  background-color: white;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+  float: left;
+}
+
+section h2 {
+  padding: 10px;
+}
+
+section p {
+  margin-left: 10px;
+}
+
+aside {
+  width: 24.8%;
+  background-color: white;
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-bottom: 5px;
+  height: 400px;
+  float: left;
+}
+
+aside ul {
+  list-style: none;
+}
+
+aside h2 {
+  padding: 10px;
+}
+
+nav {
+  float: left;
+  width: 60%;
+  display: inline-flex;
+  justify-content: center;
+  line-height: 100px;
+  height: 100px;
+  overflow: hidden;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  float: left;
+  width: 40%;
+  font-family: "Courier New", Courier, monospace;
+}
+
+nav a {
+  display: block;
+  width: 90px;
+  color: black;
+}
+
+h3 {
+  color: white;
+  padding: 20px;
+  margin-left: 30px;
+  float: left;
+}
+
+footer {
+  width: 100%;
+  height: 90px;
+  background-color: black;
+  float: left;
+}
+footer a {
+  display: block;
+  width: 100px;
+  color: black;
+  float: left;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+ul.a li {
+  color: black;
+  margin: 10px;
+}
+
+li.a1 a {
+  color: black;
+}
+
+ul.b {
+  float: left;
+  width: 50%;
+}
+
+ul.b li {
+  margin: 10px;
+}
+li.b1 a {
+  color: blueviolet;
+  margin: 10px;
+}
+
+ul.b li {
+  margin: 10px;
+}
+
+ol.c {
+  float: left;
+  width: 20%;
+}
+
+ol.c li {
+  margin: 10px;
+}
+li.b2 a {
+  color: blueviolet;
+  margin: 10px;
+}
+
+#copyright {
+  margin-left: 400px;
+  text-align-last: auto;
+}
